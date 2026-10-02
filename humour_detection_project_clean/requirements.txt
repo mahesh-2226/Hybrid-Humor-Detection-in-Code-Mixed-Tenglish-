@@ -1,0 +1,6 @@
+torch==2.9.1
+transformers==5.4.0
+gradio==6.10.0
+sentencepiece==0.2.1
+huggingface_hub==1.8.0
+protobuf
